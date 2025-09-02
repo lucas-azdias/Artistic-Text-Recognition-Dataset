@@ -1,8 +1,3 @@
-\# Artistic-Text-Recognition
-
-
+# Artistic Text Recognition Dataset
 
 Dataset of ICDAR 2024 Competition on Artistic Text Recognition
-
-
-
