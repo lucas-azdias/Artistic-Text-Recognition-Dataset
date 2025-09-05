@@ -21,7 +21,7 @@ images/356.png JUNIPER
 ...
 ```
 
-## Links
+## Competition links
 - [Competition](https://sites.google.com/view/icdar-2024-competition-wordart/)
 - [Competition results](https://codalab.lisn.upsaclay.fr/competitions/17182#participate)
 - [Train dataset](https://drive.google.com/file/d/1Lq6xKNbD7Kvs-i1myJPmwBLLG5YnoM9N/view)
