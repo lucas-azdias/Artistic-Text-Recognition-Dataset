@@ -1,6 +1,6 @@
 # Artistic Text Recognition Dataset
 
-This repository contains the **ICDAR 2024 Competition on Artistic Text Recognition** dataset.
+This repository contains the **ICDAR 2024 Competition on Artistic Text Recognition** dataset WordArt-V1.5.
 
 The competition focuses on recognizing text from artistic and stylized images.
 The dataset includes a variety of text styles, fonts, and artistic designs commonly found in creative media such as posters, advertisements, and digital art.
