@@ -1,4 +1,4 @@
-# Artistic Text Recognition Dataset
+# WordArt-V1.5 Dataset
 
 This repository contains the **ICDAR 2024 Competition on Artistic Text Recognition** dataset **WordArt-V1.5**.
 
